@@ -6,5 +6,5 @@ In this project I will be using the dataset from the Kaggle Rossmann Sale Predic
 
 I will be using Random Forests and neural networks to try predict the daily sales of Rosmann stores. The project is organized in two parts and each part is presented as seperate notebook in the project folder:
 
-Data Preprocessing
-Sales Prediction using Random Forests and Neural Networks
+1. Data Preprocessing  
+2. Sales Prediction using Random Forests and Neural Networks
